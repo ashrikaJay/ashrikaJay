@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ashrikaJay
+- 👋 Hi, I’m Ash (@ashrikaJay)
 - 👀 I’m interested in the Data Science field and AI
 - 🌱 I’m currently an undergraduate in my second year and I'm working on developer skills in the front-end in different languages & frameworks
 - 📫 You can find me on LinkedIn to reach out or look into my progress!
